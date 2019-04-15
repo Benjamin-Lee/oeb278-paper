@@ -1,0 +1,21 @@
+{
+  "name": "oeb278-paper",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "make -B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-Lee/oeb278-paper.git"
+  },
+  "author": "Benjamin Lee",
+  "bugs": {
+    "url": "https://github.com/Benjamin-Lee/oeb278-paper/issues"
+  },
+  "homepage": "https://github.com/Benjamin-Lee/oeb278-paper#readme",
+  "devDependencies": {
+    "chokidar-cli": "^1.2.2"
+  },
+  "dependencies": {}
+}
